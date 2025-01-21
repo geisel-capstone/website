@@ -21,8 +21,6 @@ export function getPostBySlug(slug: string) {
 export function getAllPosts(): Post[] {
   const slugs = getPostSlugs();
   const posts = slugs
-    .map((slug) => getPostBySlug(slug))
-    // sort posts by date in descending order
-    .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
+    .map((slug) => getPostBySlug(slug));
   return posts;
 }
