@@ -1,10 +1,10 @@
 ---
 title: "Pregnancy/Postpartum Resources"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Happy-mother-with-baby.jpg/640px-Happy-mother-with-baby.jpg"
 author: Grace
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Happy-mother-with-baby.jpg/640px-Happy-mother-with-baby.jpg"
 ---
 
 ### Women’s Health Resource Center

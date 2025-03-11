@@ -1,9 +1,14 @@
 export function Intro() {
   return (
-    <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
-      <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">
-        Geisel Parenting Resources
-      </h1>
-    </section>
+    <>
+      <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
+        <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-tight md:pr-8">
+          Parenting Resources
+        </h1>
+        <h2 className="text-2xl md:text-3xl font-light tracking-tight leading-snug md:pr-8">
+          Geisel School of Medicine
+        </h2>
+      </section >
+    </>
   );
 }
