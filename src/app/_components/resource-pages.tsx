@@ -14,7 +14,6 @@ export function Resources({ posts }: Props) {
             key={post.slug}
             title={post.title}
             coverImage={post.coverImage}
-            author={post.author}
             slug={post.slug}
             excerpt={post.excerpt}
           />

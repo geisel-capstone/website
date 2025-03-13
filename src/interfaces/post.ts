@@ -4,7 +4,6 @@ export type Post = {
   title: string;
   date?: string;
   coverImage: string;
-  author: string;
   excerpt: string;
   ogImage: {
     url: string;
