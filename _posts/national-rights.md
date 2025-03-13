@@ -1,14 +1,15 @@
 ---
-title: "National Rights for Individuals who are Pregnant"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "National Rights"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
+## National Rights for Individuals who are Pregnant
+
 ### Title IX
 
-Under Title IX, medical schools are required to provide accommodations to pregnant students, including:
+Under Title IX, medical schools are required to provide accommodations to pregnant students:
 
 - Flexibility with class schedules and exam dates
 - Adjustments for clinical rotations
