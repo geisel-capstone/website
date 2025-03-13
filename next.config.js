@@ -1,3 +1,5 @@
+const basePath = process.env.GITHUB_PAGES_BASEPATH || ''
+
 module.exports = {
     output: 'export',
     images: {
@@ -10,5 +12,8 @@ module.exports = {
                 search: '',
             },
         ],
+    },
+    env: {
+        imageBase: basePath,
     },
 }
