@@ -1,11 +1,10 @@
 ---
 title: "Childcare Resources"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
-A map of childcare providers in the Upper Valley can be found at [https://eceauv.org/finding-childcare-in-the-upper-valley/](https://eceauv.org/finding-childcare-in-the-upper-valley/). We encourage you to look at the reviews of daycares listed on this page, read the websites and request tours to make sure they meet your needs, and consider whether you are interested in center-based and/or home-based daycare.
+A map of childcare providers in the Upper Valley can be found [here](https://eceauv.org/finding-childcare-in-the-upper-valley/). We encourage you to look at the reviews of daycares listed on this page, read the websites and request tours to make sure they meet your needs, and consider whether you are interested in center-based and/or home-based daycare.
 
 Please note that currently Geisel medical students are not eligible for the daycare centers at Dartmouth College or DHMC. Preschools and daycare centers that medical students have successfully sent their children to in the past include Immersion Montessori, Norwich Nursery School, Toddler’s Morning Out, and CCUV.
 
